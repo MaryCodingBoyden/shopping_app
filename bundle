@@ -1,0 +1,5 @@
+== 20180830010038 CreateItemsLists: migrating =================================
+-- create_table(:items_lists)
+   -> 0.0066s
+== 20180830010038 CreateItemsLists: migrated (0.0066s) ========================
+
